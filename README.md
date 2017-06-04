@@ -14,3 +14,8 @@ Things i have learnt by completing this project:
 * How to analyze various learning performance plots for variance and bias.
 * How to determine the best-guess model for predictions from unseen data.
 * How to evaluate a model’s performance on unseen data using previous data.
+
+### Other Related Projects:
+* <strong> Project 0 : </strong> *[Titanic Survivals Prediction](https://github.com/Rajat-dhyani/titanic_survival)*
+* <strong> Project 2 : </strong> *[Charity Donors Prediction](https://github.com/Rajat-dhyani/charity_donors)*
+
